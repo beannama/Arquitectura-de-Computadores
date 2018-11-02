@@ -1,0 +1,16 @@
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\bin\Debug\SkeletonBasics-WPF.exe
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\bin\Debug\SkeletonBasics-WPF.pdb
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\bin\Debug\Microsoft.Kinect.dll
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\bin\Debug\Microsoft.Kinect.xml
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF-VB.vbprojAssemblyReference.cache
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\MainWindow.baml
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\MainWindow.g.vb
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\Application.g.vb
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF.g.resources
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\Resources.resources
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF-VB.vbproj.GenerateResource.cache
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF-VB.vbproj.CoreCompileInputs.cache
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF-VB.vbproj.CopyComplete
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF.exe
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF.pdb

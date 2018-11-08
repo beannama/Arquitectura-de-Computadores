@@ -25,6 +25,11 @@ Namespace Microsoft.Samples.Kinect.SkeletonBasics
         Private imageSource As DrawingImage
         Private colorBitmap As WriteableBitmap
         Private colorPixels() As Byte
+        Public videosource As Uri
+        Private time1 As TimeSpan = New TimeSpan(0, 0, 0) '0:0:35 secs
+        Private time2 As TimeSpan = New TimeSpan(0, 0, 30) '0:1:00 secs
+        Private time3 As TimeSpan = New TimeSpan(0, 1, 0) ' 0:1:35 secs
+
 
         Public Sub New()
             InitializeComponent()
@@ -39,6 +44,7 @@ Namespace Microsoft.Samples.Kinect.SkeletonBasics
 
             ' Display the drawing using our image control
             Image.Source = Me.imageSource
+
 
             ' Look through all sensors and start the first connected one.
             ' This requires that a Kinect is connected at the time of app startup.
@@ -281,6 +287,13 @@ Namespace Microsoft.Samples.Kinect.SkeletonBasics
             If CheckBox3.IsChecked Then
                 CheckBox3.IsChecked = False
             End If
+        End Sub
+
+        Public Sub Button_Click(sender As Object, e As RoutedEventArgs) Handles BTN.Click
+            Me.Video1.Stop()
+            videosource = New Uri("D:\\BenNa\\Downloads\\KinectArqui\\SkeletonBasics-WPF-VB\\Images\\Sin títulompg.mpg")
+            Video1.Source = videosource
+            Me.Video1.Play()
         End Sub
     End Class
 End Namespace

@@ -69,6 +69,8 @@
         <CheckBox x:Name="CheckBox2" Content="Lines" HorizontalAlignment="Left" Margin="534,5,0,0" Grid.Row="3" VerticalAlignment="Top"/>
         <CheckBox x:Name="CheckBox3" Content="True Image" HorizontalAlignment="Left" Margin="680,5,0,0" Grid.Row="3" VerticalAlignment="Top"/>
         <Image x:Name="Image2" HorizontalAlignment="Left" Margin="0,0,0,25.2" Width="717" Visibility="Hidden" Grid.Row="1" Grid.RowSpan="3"/>
-        <Image x:Name="Video" HorizontalAlignment="Left" Height="538" Margin="808,0,0,0" Grid.Row="1" VerticalAlignment="Top" Width="690" Grid.RowSpan="3"/>
+        <MediaElement x:Name="Video1" HorizontalAlignment="Right" Margin="0,0,0,9.6" Grid.Row="1" Width="696" Source="Images/Sin títulowmv.wmv" UnloadedBehavior="Manual" Volume="100" SpeedRatio="1" LoadedBehavior="Manual"/>
+        <Button x:Name="BTN" Content="Button" HorizontalAlignment="Left" Margin="722,45,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+
     </Grid>
 </Window>

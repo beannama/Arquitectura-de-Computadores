@@ -14,3 +14,5 @@ D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WP
 D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF-VB.vbproj.CopyComplete
 D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF.exe
 D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF.pdb
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF_Content.g.vb
+D:\BenNa\Downloads\KinectArqui\SkeletonBasics-WPF-VB\bin\Debug\Images\Sin títulompg.mpg
